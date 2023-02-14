@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13e98805_aaf63dd4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000610
+      },
+      "writtenOn": "2023-02-14T15:53:37Z",
+      "side": 1,
+      "message": "please reverify this los upstream. also from which source this is getting duplicate.",
+      "revId": "b6225d7acec73947619b68ec69b0f55b7be78352",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
