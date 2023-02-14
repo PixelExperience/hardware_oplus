@@ -34,6 +34,24 @@
       "parentUuid": "13e98805_aaf63dd4",
       "revId": "b6225d7acec73947619b68ec69b0f55b7be78352",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d93ca1d7_780fb5d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000729
+      },
+      "writtenOn": "2023-02-14T20:18:52Z",
+      "side": 1,
+      "message": "\u003e please reverify this los upstream. also from which source this is getting duplicate.\n\nthe original commit doesn\u0027t have does two lines\n\nhttps://github.com/LineageOS/android_hardware_oplus/commit/f2de507d76f67a5d7ad688f1ec253dfe31420121\n\nlooks like it was  added here\n\nhttps://github.com/PixelExperience/hardware_oplus/commit/c3e73c4cb06f6e84efc71a7df87c7c844aa04784",
+      "parentUuid": "b19dd091_7ea69770",
+      "revId": "b6225d7acec73947619b68ec69b0f55b7be78352",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
