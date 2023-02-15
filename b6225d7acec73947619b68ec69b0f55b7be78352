@@ -87,6 +87,24 @@
       "parentUuid": "d93ca1d7_780fb5d8",
       "revId": "b6225d7acec73947619b68ec69b0f55b7be78352",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98c418ef_752039bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000719
+      },
+      "writtenOn": "2023-02-15T20:23:53Z",
+      "side": 1,
+      "message": "this is the original commit los upstream.\n\nhttps://github.com/LineageOS/android_hardware_oplus/commit/f2de507d76f67a5d7ad688f1ec253dfe31420121\n\nin the los upstream there is no soc:qcom,msm-audio-apr:qcom,q6core-audio:bolero-cdc/rx-macro/rx_swr_ctrl/wakeup u:object_r:sysfs_wakeup:s0\n\nadded",
+      "parentUuid": "b19dd091_7ea69770",
+      "revId": "b6225d7acec73947619b68ec69b0f55b7be78352",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
