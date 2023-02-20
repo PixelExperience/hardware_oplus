@@ -16,6 +16,23 @@
       "message": "Still shows just charging",
       "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a582f5d_2ad185bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000719
+      },
+      "writtenOn": "2023-02-20T10:11:31Z",
+      "side": 1,
+      "message": "its works for sm8250",
+      "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
