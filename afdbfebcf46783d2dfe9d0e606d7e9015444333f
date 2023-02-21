@@ -33,6 +33,23 @@
       "message": "its works for sm8250",
       "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "02268d00_426cdc39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000719
+      },
+      "writtenOn": "2023-02-21T22:42:20Z",
+      "side": 1,
+      "message": "Looks good to me, but someone else must approve",
+      "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
