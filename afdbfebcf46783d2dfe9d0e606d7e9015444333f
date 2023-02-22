@@ -50,6 +50,24 @@
       "message": "Looks good to me, but someone else must approve",
       "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da164212_26eea2ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000166
+      },
+      "writtenOn": "2023-02-22T10:36:36Z",
+      "side": 1,
+      "message": "Any extra denial maybe?",
+      "parentUuid": "caa1622e_5c6588ed",
+      "revId": "afdbfebcf46783d2dfe9d0e606d7e9015444333f",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
