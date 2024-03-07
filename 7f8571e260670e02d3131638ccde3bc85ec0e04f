@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3c7fea19_91b8fe96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2024-03-07T19:44:40Z",
+      "side": 1,
+      "message": "without it build fail.\nFAILED: out/soong/.intermediates/system/sepolicy/recovery_sepolicy.cil/android_common/recovery_sepolicy.cil\nout/host/linux-x86/bin/checkpolicy -C -M -c 30 -o out/soong/.intermediates/system/sepolicy/recovery_sepolicy.cil/android_common/recovery_sepolicy.cil out/soong/.intermediates/system/sepolicy/recovery_sepolicy.conf/android_common/recovery_sepolicy.conf # hash of input list: a316674d1dc0868a105f79e687a4b6449e6a8801cfa3253b9c426787c1c40d09\nhardware/oplus/sepolicy/qti/vendor/vendor_rmt_storage.te:3:ERROR \u0027unknown type vendor_sysfs_soc_sensitive\u0027 at token \u0027;\u0027 on line 145698:\nallow vendor_rmt_storage vendor_sysfs_soc_sensitive:file { getattr open read ioctl lock map watch watch_reads };\nallow vendor_rmt_storage vendor_reserve_partition:blk_file { { getattr open read ioctl lock map watch watch_reads } { open append write lock map } };",
+      "revId": "7f8571e260670e02d3131638ccde3bc85ec0e04f",
+      "serverId": "4889e122-48d1-4608-950d-fd61a2d2ee50"
+    }
+  ]
+}
